@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anton Alice Vice and I am a transhumanist
+- 👀 I’m interested in the idea of using technology to enhance or change human abilities and characteristics.
+- 🌱 I’m currently learning Deep Learning, XR Technologies, and biohacking
+- To reach me, email either architect@deepvice.co or anton96vice@gmail.com
