@@ -1,4 +1,4 @@
-# Anton Vice
+# Anton
 
 ## Information
 
@@ -10,8 +10,8 @@
 My name is Anton and I am 26 years old.
 * Certified and practising Machine Learning Engineer 
 * Kaggle and Hackathons' participator
-* 5 Years programming on Python and 2 Years experience in Data Analysis and Machine Learning
-* Participate in Hackathons and keep my personal blog on LinkedIn
+* 8 Years programming on Python and 4 Years experience in Data Analysis and Machine Learning
+* Participate in Hackathons and keep my personal blog on [Medium](https://www.medium.com/@AI_Whisperer)
 
 ### Certifications:
 * Kaggle Learning
@@ -70,3 +70,4 @@ Now the most important for you to know about me - my skillset. This list is cons
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
 - [My Academic Writings](https://www.linkedin.com/in/anton96vice/detail/recent-activity/posts/)
+- [Blog](https://www.medium.com/@AI_Whisperer)
