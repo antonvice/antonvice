@@ -1,8 +1,6 @@
 # Anton <a href="mailto:anton@callconnect">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://linkedin.com/in/anton96vice>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/antonvice)
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=antonvice&count_private=true&show_icons=true&hide=contribs)
+![Leetcode Stats](https://leetcard.jacoblin.cool/antonvice) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=antonvice&count_private=true&show_icons=true&hide=contribs&theme=panda)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonvice)
