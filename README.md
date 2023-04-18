@@ -2,6 +2,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/antonvice)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=antonvice&count_private=true&show_icons=true&hide=contribs)
+
 ## Information
 
 ### Resume
