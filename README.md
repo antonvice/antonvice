@@ -1,5 +1,5 @@
 # Anton
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/antonvice)
 ## Information
 
 ### Resume
