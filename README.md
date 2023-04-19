@@ -9,11 +9,8 @@
 * [Artist Portfolio](https://deepvice.co)
 
 ### BIO
-My name is Anton and I am 26 years old.
-* Certified and practising Machine Learning Engineer 
-* Kaggle and Hackathons' participator
-* 8 Years programming on Python and 4 Years experience in Data Analysis and Machine Learning
-* Participate in Hackathons and keep my personal blog on [Medium](https://www.medium.com/@AI_Whisperer)
+
+I am a certified and practicing Machine Learning Engineer with experience in Data Analysis and Machine Learning. I participate in Hackathons and maintain a personal blog on [Medium](https://www.medium.com/@AI_Whisperer).
 
 ### Certifications:
 * Kaggle Learning
