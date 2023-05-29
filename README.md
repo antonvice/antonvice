@@ -1,4 +1,8 @@
 # Anton <a href="mailto:anton@callconnect">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://linkedin.com/in/anton96vice>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="<https://t.me/@nucradkillsrats>">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="<https://medium.com/@AI_Whisperer>">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antonvice&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/antonvice) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=antonvice&count_private=true&show_icons=true&hide=contribs&theme=panda&custom_width=100)
 
