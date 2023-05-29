@@ -6,6 +6,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/antonvice) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=antonvice&count_private=true&show_icons=true&hide=contribs&theme=panda&custom_width=100)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonvice)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Information
 
 ### Resume
