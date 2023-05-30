@@ -10,8 +10,7 @@
 
 ## Information
 
-### Resume
-* [My working Resume](https://github.com/antonvice/antonvice/blob/main/Anton_Vice_Resume_Data_Scientist.pdf)
+### Business Card
 * [Artist Portfolio](https://deepvice.co)
 
 ### BIO
