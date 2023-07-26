@@ -44,8 +44,8 @@ Now the most important for you to know about me - my skillset. This list is cons
 |  Computer Vision | Collect, Augment, preprocess images. Build Models, use transformers, visualize the results. Object detection, Segmentation  | Keras, TensorFlow, OpenCV, PyTorch|
 
 ## Hackathons
-* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 10 with the team "Safari Solutions" [Certificate](https://github.com/anton96vice/Portfolio/blob/main/imgs/Anton%20Vice.pdf)
-* [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 10 with the team "SOILyanka"
+* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 3 with the team "Safari Solutions" [Certificate](https://github.com/anton96vice/Portfolio/blob/main/imgs/Anton%20Vice.pdf)
+* [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 3 with the team "SOILyanka"
 
 ## Projects
 ### SQL, Analysis, and Presentation
