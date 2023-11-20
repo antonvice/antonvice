@@ -1,74 +1,44 @@
-# Anton <a href="mailto:anton@callconnect">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://linkedin.com/in/anton96vice>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="<https://t.me/@nucradkillsrats>">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="<https://medium.com/@AI_Whisperer>">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
+# Anton <a href="mailto:anton96vice@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://linkedin.com/in/antonvice>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="<https://t.me/nucradkillsrats>">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="<https://medium.com/@AI_Whisperer>">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antonvice&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/antonvice) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=antonvice&count_private=true&show_icons=true&hide=contribs&theme=panda&custom_width=100)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonvice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Information
-
-### Business Card
-* [Artist Portfolio](https://deepvice.co)
+## 🔥 Information
 
 ### BIO
-
-I am a certified and practicing Machine Learning Engineer with experience in Data Analysis and Machine Learning. I participate in Hackathons and maintain a personal blog on [Medium](https://www.medium.com/@AI_Whisperer).
+AI Engineer/Entrepreneur
+I break and make things. 
 
 ### Certifications:
 * Kaggle Learning
 * Udemy AI Engineer
 * Stanford Machine Learning
-* UM AR/VR/XR Technologies
-* Google UX/UI Design
 
 ## Skill Stack
-Now the most important for you to know about me - my skillset. This list is constantly updating as I invest my money and time in this the most
-| SkillSet      | Skills | Apps    |
-| :------------- | :----------: | -----------: |
-|  Data Analytics | Analyze, visualize, preprocess, cleanup, impute, encode data; engineer features and draw insights    | GRETL, Tableau, Python, Numpy, PANDAS, scikitlearn, seaborn, matplotlib    |
-|Mathematics | Mat. Analysis, Gradient Descent, Linalg, Optimization | [python and my brain](https://github.com/anton96vice/Portfolio/tree/main/Mathematics)
-| ML Engineering   | Regression, Classification, Clasterization, Cross-Evaluation, Parameter Tuning, Neural Networks, PCA, Dimensionality Reduction| ScikitLearn |
-| SQA   | bug recreation and documentation | Selenium|
-| SQL   | Database creation and Queries | PostgreSQL|
-|  Deployement  | App Deployement and server launch | Heroku, Streamlit, [Flask](https://drive.google.com/file/d/16A5TUZ)|
-| Entrepreneurship  | bookkeeping, communication, management | Excel, QuickBooks|
+| Skills                       | Frameworks                                       |
+| :--------------------------- | :----------------------------------------------- |
+| Text Classification          | NLTK, spaCy, Transformers, BERT, GPT              |
+| Sentiment Analysis           | NLTK, spaCy, Transformers                        |
+| Machine Translation          | Transformers, BERT, GPT                          |
+| Named Entity Recognition     | spaCy, NLTK, Transformers                        |
+| Topic Modeling               | Gensim, NLTK                                     |
+| Image Classification         | TensorFlow, PyTorch, Keras, OpenCV               |
+| Object Detection             | YOLO, OpenCV, TensorFlow, PyTorch                |
+| Image Segmentation           | TensorFlow, PyTorch, OpenCV                      |
+| Face Recognition             | OpenCV, Dlib, Face_recognition                   |
+| Optical Character Recognition| Tesseract, PyTesseract, OpenCV                   |
+| Regression Analysis          | Scikit-learn, TensorFlow, PyTorch                |
+| Classification               | Scikit-learn, TensorFlow, PyTorch                |
+| Feature Engineering          | Pandas, Scikit-learn                             |
+| Ensemble Methods             | XGBoost, LightGBM, CatBoost                      |
+| Data Preprocessing           | Pandas, Scikit-learn                             |
+| Forecasting                  | Statsmodels, Facebook Prophet                    |
+| Seasonal Adjustment          | Statsmodels, Facebook Prophet                    |
+| Time Series Decomposition    | Statsmodels, Darts                               |
+| Anomaly Detection            | PyOD, Scikit-learn                               |
+| Dynamic Time Warping         | DTAIDistance, tslearn                            |
 
-## Deep Learning Skill Stack
-Now the most important for you to know about me - my skillset. This list is constantly updating as I invest my money and time in this the most
-| SkillSet      | Skills | Apps    |
-| :------------- | :----------: | -----------: |
-|  NLP | Scrape, analyze, visualize, preprocess, cleanup, Stemm, Lemmatize texts; engineer features and draw insights, Categorize, clusterize, and generate text   | Spacy, NLTK, TextBlob, WordCloud, Word2Vec, ktrain, tqdm, snscrape|
-|  Computer Vision | Collect, Augment, preprocess images. Build Models, use transformers, visualize the results. Object detection, Segmentation  | Keras, TensorFlow, OpenCV, PyTorch|
 
 ## Hackathons
 * [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 3 with the team "Safari Solutions" [Certificate](https://github.com/anton96vice/Portfolio/blob/main/imgs/Anton%20Vice.pdf)
 * [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 3 with the team "SOILyanka"
-
-## Projects
-### SQL, Analysis, and Presentation
-* [SQL](https://github.com/antonvice/school-projects/tree/main/Projects/SQL_Project)
-
-
-### Regression
-* [Bitcoin Prediction](https://github.com/antonvice/school-projects/tree/main/Projects/Predicting%20Bitcoin%20Price%20Trends)
-
-
-### Classification
-* [Classic](https://github.com/antonvice/school-projects/tree/master/Projects/Classification)
-* [Computer Says "NO"](https://github.com/antonvice/school-projects/tree/master/Projects/Comp_NO)
-* [Breast Cancer Classification](https://github.com/antonvice/school-projects/tree/main/Projects/Breast%20Cancer)
-
-### Clusterization
-* [Cluster](https://github.com/antonvice/school-projects/tree/master/Projects/Clusterization)
-
-### NLP
-* [NLP](https://github.com/antonvice/school-projects/tree/master/Projects/NLP)
-
-### Computer Vision
-* [Deep Dream Avocado](https://github.com/antonvice/school-projects/tree/master/Projects/DeepDreamAvocado)
 
 
 ## Links
