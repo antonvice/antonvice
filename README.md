@@ -3,7 +3,8 @@
 ## 🔥 Information
 
 ### BIO
-AI Engineer/Entrepreneur
+AI Engineer
+
 I break and make things. 
 
 ### Certifications:
