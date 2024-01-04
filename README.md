@@ -1,4 +1,4 @@
-<img src="https://ibb.co/kQL1qhh" alt="Anton Vice" />
+<img src="https://i.ibb.co/V2FmMvv/deepestvice-a-nerdy-Shrek-sitting-next-to-Donkey-at-a-computer-a16801e9-a055-44e0-9e57-56f324032013.png" alt="Anton Vice" />
 
 <p align="center">
     <b>Connect with Anton Vice:</b>
