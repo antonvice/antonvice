@@ -1,5 +1,4 @@
-<img src="https://github.com/antonvice/antonvice/blob/main/123.png" alt="Anton Vice" />
-
+# Anton Vice
 <a href="mailto:anton96vice@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://linkedin.com/in/anton96vice">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://t.me/nucradkillsrats">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://medium.com/@AI_Whisperer">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
 
 
@@ -18,28 +17,12 @@ I break and make things.
 * Stanford Machine Learning
 
 ## Skill Stack
-| Skills                       | Frameworks                                       |
-| :--------------------------- | :----------------------------------------------- |
-| Text Classification          | NLTK, spaCy, Transformers, BERT, GPT              |
-| Sentiment Analysis           | NLTK, spaCy, Transformers                        |
-| Machine Translation          | Transformers, BERT, GPT                          |
-| Named Entity Recognition     | spaCy, NLTK, Transformers                        |
-| Topic Modeling               | Gensim, NLTK                                     |
-| Image Classification         | TensorFlow, PyTorch, Keras, OpenCV               |
-| Object Detection             | YOLO, OpenCV, TensorFlow, PyTorch                |
-| Image Segmentation           | TensorFlow, PyTorch, OpenCV                      |
-| Face Recognition             | OpenCV, Dlib, Face_recognition                   |
-| Optical Character Recognition| Tesseract, PyTesseract, OpenCV                   |
-| Regression Analysis          | Scikit-learn, TensorFlow, PyTorch                |
-| Classification               | Scikit-learn, TensorFlow, PyTorch                |
-| Feature Engineering          | Pandas, Scikit-learn                             |
-| Ensemble Methods             | XGBoost, LightGBM, CatBoost                      |
-| Data Preprocessing           | Pandas, Scikit-learn                             |
-| Forecasting                  | Statsmodels, Facebook Prophet                    |
-| Seasonal Adjustment          | Statsmodels, Facebook Prophet                    |
-| Time Series Decomposition    | Statsmodels, Darts                               |
-| Anomaly Detection            | PyOD, Scikit-learn                               |
-| Dynamic Time Warping         | DTAIDistance, tslearn                            |
+* .🔥
+* Torch, TF, Scikit, Pandas, Numpy, scipy
+* PEFT, Transformers, Diffusers
+* Modal, TogetherAI, Replicate, Replit, Vercel
+* AWS, AzureML, Google Vertex
+* MLFlow, Kuberflow, Neptune, W&B
 
 
 ## Hackathons
