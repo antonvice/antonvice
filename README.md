@@ -28,22 +28,24 @@ I break and make things.
 * Stanford Machine Learning
 
 ## Skill Stack
-* ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-* ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-* ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) `TensorFlow`
-* ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) `Scikit-learn`
-* ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white) `Pandas`
-* ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white) `NumPy`
-* ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white) `SciPy`
-* ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white) `FastAPI`
-* ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black) `Transformers`
-* ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) `AWS`
-* ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) `AzureML`
-* ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) `Google Vertex`
-* ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white) `MLFlow`
-* ![Kubeflow](https://img.shields.io/badge/-Kubeflow-00A3E0?style=flat&logo=Kubeflow&logoColor=white) `Kubeflow`
-* ![Weights & Biases](https://img.shields.io/badge/-Weights_&_Biases-FE7A16?style=flat&logo=Weights&Biases&logoColor=white) `W&B`
+<p align ="center">
+  
+![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+![](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
+![](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+![](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black)
+![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
+![](https://img.shields.io/badge/-Kubeflow-00A3E0?style=flat&logo=Kubeflow&logoColor=white)
+![](https://img.shields.io/badge/-Weights_&_Biases-FE7A16?style=flat&logo=Weights&Biases&logoColor=white)
 
+</p>
 
 
 ## Hackathons
