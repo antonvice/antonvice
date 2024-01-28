@@ -41,7 +41,6 @@ I break and make things.
 ![](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
-![](https://img.shields.io/badge/-Kubeflow-00A3E0?style=flat&logo=Kubeflow&logoColor=white)
 ![](https://img.shields.io/badge/-Weights_&_Biases-FE7A16?style=flat&logo=Weights&Biases&logoColor=white)
 
 </p>
