@@ -1,9 +1,13 @@
 # Anton Vice
 <img src="https://github.com/antonvice/antonvice/blob/main/Game%20Streamer.png?raw=true" alt="yeahicode">
-<a href="mailto:anton96vice@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://linkedin.com/in/anton96vice">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://t.me/nucradkillsrats">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> 
-<a href="https://medium.com/@AI_Whisperer">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [anton96vice@gmail.com](mailto:anton96vice@gmail.com)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/anton96vice](https://linkedin.com/in/anton96vice)
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [t.me/nucradkillsrats](https://t.me/nucradkillsrats)
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [medium.com/@AI_Whisperer](https://medium.com/@AI_Whisperer)
+
 
 
 ---
