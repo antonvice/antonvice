@@ -1,5 +1,6 @@
 # Anton Vice
 <img src="https://github.com/antonvice/antonvice/blob/main/Game%20Streamer.png?raw=true" alt="yeahicode">
+
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [anton96vice@gmail.com](mailto:anton96vice@gmail.com)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/anton96vice](https://linkedin.com/in/anton96vice)
