@@ -28,12 +28,21 @@ I break and make things.
 * Stanford Machine Learning
 
 ## Skill Stack
-* .🔥
-* <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PyTorch</title><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></svg> , TF, Scikit, Pandas, Numpy, scipy
-* PEFT, Transformers, Diffusers
-* Modal, TogetherAI, Replicate, Replit, Vercel
-* AWS, AzureML, Google Vertex
-* MLFlow, Kuberflow, Neptune, W&B
+* ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) `PyTorch`
+* ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) `TensorFlow`
+* ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) `Scikit-learn`
+* ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white) `Pandas`
+* ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white) `NumPy`
+* ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white) `SciPy`
+* ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white) `FastAPI`
+* ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black) `Transformers`
+* ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) `AWS`
+* ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) `AzureML`
+* ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) `Google Vertex`
+* ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white) `MLFlow`
+* ![Kubeflow](https://img.shields.io/badge/-Kubeflow-00A3E0?style=flat&logo=Kubeflow&logoColor=white) `Kubeflow`
+* ![Weights & Biases](https://img.shields.io/badge/-Weights_&_Biases-FE7A16?style=flat&logo=Weights&Biases&logoColor=white) `W&B`
+
 
 
 ## Hackathons
