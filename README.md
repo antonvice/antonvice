@@ -34,7 +34,6 @@ I break and make things.
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-![](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
 ![](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 ![](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black)
