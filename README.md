@@ -12,20 +12,6 @@
 
 ---
 
-## AntonVice.🔥
-
-ML | DS | AI Engineer
-
----
-
-I coined the term "AI Whisperer" to symbolize a new and experimental direction of software engineering where the main focus of work is on interacting with machine learning models to discover emergent behaviors. I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
-
-### Certifications:
-* Kaggle Learning
-* Udemy AI Engineer
-* Stanford Machine Learning
-
-## Skill Stack
 <p align ="center">
   
 ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
@@ -41,3 +27,12 @@ I coined the term "AI Whisperer" to symbolize a new and experimental direction o
 ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
 
 </p>
+
+---
+## AntonVice.🔥
+
+ML | DS | AI Engineer
+
+---
+
+I coined the term "AI Whisperer" to symbolize a new and experimental direction of software engineering where the main focus of work is on interacting with machine learning models to discover emergent behaviors. I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
