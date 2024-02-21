@@ -44,7 +44,7 @@ I coined the term "AI Whisperer" to symbolize a new and experimental direction o
 
 
 ## Hackathons
-* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 3 with the team "Safari Solutions" [Certificate](https://github.com/anton96vice/Portfolio/blob/main/imgs/Anton%20Vice.pdf)
+* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 3 with the team "Safari Solutions"
 * [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 3 with the team "SOILyanka"
 
 
