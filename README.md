@@ -18,9 +18,8 @@
 ## 🔥 Information
 
 ### BIO
-AI Engineer
-
-I break and make things. 
+ML | DS | AI Engineer
+I coined the term "AI Whisperer" to symbolize a new and experimental direction of software engineering where the main focus of work is on interacting with machine learning models to discover emergent behaviors. I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
 
 ### Certifications:
 * Kaggle Learning
@@ -51,6 +50,6 @@ I break and make things.
 
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
-- [My Academic Writings](https://www.linkedin.com/in/anton96vice/detail/recent-activity/posts/)
+- [LinkedIn](https://www.linkedin.com/in/anton96vice/)
+- [Telegram](https://t.me/@nucradkillsrats)
 - [Blog](https://www.medium.com/@AI_Whisperer)
