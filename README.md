@@ -41,14 +41,3 @@ I coined the term "AI Whisperer" to symbolize a new and experimental direction o
 ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
 
 </p>
-
-
-## Hackathons
-* [Zoohackathon](https://zoohackathon-2020-europe.devpost.com/) Top 3 with the team "Safari Solutions"
-* [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 3 with the team "SOILyanka"
-
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/anton96vice/)
-- [Telegram](https://t.me/@nucradkillsrats)
-- [Blog](https://www.medium.com/@AI_Whisperer)
