@@ -2,7 +2,7 @@
 <a href="https://www.fontspace.com/category/color"><img src="https://see.fontimg.com/api/renderfont4/L3o7W/eyJyIjoiZHciLCJoIjoxODIsInciOjIwMDAsImZzIjo5MSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYifQ/QW50b24gVmljZQ/loungeitalicpersonaluse-bdit.png" alt="Color fonts"></a>
 </p>
 <p align="center">
-  <img src="https://github.com/antonvice/antonvice/blob/main/Game%20Streamer.png?raw=true" alt="yeahicode">
+  <img src="https://github.com/antonvice/antonvice/blob/main/iconr.png?raw=true" alt="yeahicode">
 </p>
 <table align="center">
   <tr>
