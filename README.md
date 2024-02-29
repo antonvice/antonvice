@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center">
+<div align="center">
   
   <!-- Programming Languages -->
   ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -55,7 +55,7 @@
   ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
   ![](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)
 
-</p>
+</div>
 
 ---
 # AntonVice.🔥
