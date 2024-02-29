@@ -10,8 +10,10 @@
   </tr>
 </table>
 
-<p align="center>
-  <img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/palx?style=for-the-badge&logo=python&logoColor=pink&label=PaLx%40PYPI&labelColor=purple&color=teal&link=https%3A%2F%2Fpypi.org%2Fproject%2Fpalx%2F">
+<p align="center">
+  <a href="https://pypi.org/project/palx/">
+    <img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/palx?style=for-the-badge&logo=python&logoColor=pink&label=PaLx%40PYPI&labelColor=purple&color=teal">
+  </a>
 </p>
 
 ---
