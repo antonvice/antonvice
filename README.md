@@ -9,6 +9,9 @@
     <td align="center" width="25%"><a href="https://medium.com/@AI_Whisperer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a></td>
   </tr>
 </table>
+<a align="center>
+  <img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/palx?style=for-the-badge&logo=python&logoColor=pink&label=PaLx%40PYPI&labelColor=purple&color=teal&link=https%3A%2F%2Fpypi.org%2Fproject%2Fpalx%2F">
+</a>
 
 ---
 
