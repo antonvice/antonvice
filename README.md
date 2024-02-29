@@ -43,7 +43,7 @@
 ![](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
+![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 
 </p>
 
