@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
+
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/-HTMX-ff4081?style=flat&logo=html5&logoColor=white)
