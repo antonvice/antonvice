@@ -32,6 +32,18 @@
 ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
 
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-HTMX-ff4081?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-hyperscript-7F52FF?style=flat&logo=hyper&logoColor=white)
+![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white)
+![](https://img.shields.io/badge/-NLTK-4E9A06?style=flat&logo=NaturalLanguageToolkit&logoColor=white)
+![](https://img.shields.io/badge/-Cython-00BFFF?style=flat&logo=Cython&logoColor=white)
+![](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
+
 </p>
 
 ---
