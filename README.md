@@ -70,6 +70,6 @@
 
 </div>
 
-<div align="center">
+<div align="center"width="150%>
     <img alt="PyPI - Implementation" src="https://leetcard.jacoblin.cool/antonvice?theme=wtf&font=Comic%20Neue&ext=activity">
 </div>
