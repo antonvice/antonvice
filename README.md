@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://myreadme.vercel.app/api/embed/antonvice?hide=html,jupyter%20notebook&layout=donut-vertical&panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=tokyonight&" alt="reimaginedreadme" />
+    <img src="https://myreadme.vercel.app/api/embed/antonvice?hide=HTML,jupyter%20notebook&layout=donut-vertical&panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=tokyonight&" alt="reimaginedreadme" />
   </a>
 </div>
 
