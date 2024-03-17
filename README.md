@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://myreadme.vercel.app/api/embed/antonvice?hide=html,jupyter%20notebook&layout=donut-vertical&panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+    <img src="https://myreadme.vercel.app/api/embed/antonvice?hide=html,jupyter%20notebook&layout=donut-vertical&panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=tokyonight&" alt="reimaginedreadme" />
   </a>
 </div>
 
@@ -74,3 +74,10 @@
     <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=wtf&font=Comic%20Neue&ext=activity" style="width: 100%;">
 </div>
 
+
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact" alt="WakaTime Stats" />
+  </a>
+</div>
