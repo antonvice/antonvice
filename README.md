@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://myreadme.vercel.app/api/embed/antonvice?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+    <img src="https://myreadme.vercel.app/api/embed/antonvice?panels=userstatistics,toprepositories,toplanguages,commitgraph&hide=html" alt="reimaginedreadme" />
 
   </a>
 </div>
