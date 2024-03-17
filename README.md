@@ -75,5 +75,7 @@
 </div>
 
 
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@antonvice" alt="WakaTime Stats" />
+</div>
 
