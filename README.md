@@ -78,6 +78,6 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@018e4a31-015e-4774-a86c-46b3f668c316&layout=compact" alt="WakaTime Stats" />
   </a>
 </div>
