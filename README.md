@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/antonvice?hide=HTML,jupyter%20notebook&layout=donut-vertical&panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=tokyonight&" alt="reimaginedreadme" />
+    <img src="https://myreadme.vercel.app/api/embed/antonvice?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 
@@ -68,9 +68,9 @@
 
 </div>
 
-<a href="https://leetcode.com/antonvice/">
-    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=wtf&font=Comic%20Neue&ext=activity" style="max-width: 100%;">
-</a>
+<div align="center">
+    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=wtf&font=Comic%20Neue&ext=activity" style="width: 100%;">
+</div>
 
 
 <div align="center">
