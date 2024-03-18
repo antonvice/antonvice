@@ -68,12 +68,11 @@
 
 </div>
 
-<div align="center">
-    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=wtf&font=Comic%20Neue&ext=activity" style="width: 100%;">
-</div>
+<a href="https://leetcode.com/antonvice/">
+    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=wtf&font=Comic%20Neue&ext=activity" style="max-width: 100%;">
+</a>
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@antonvice" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antonvice" alt="WakaTime Stats" />
 </div>
-
