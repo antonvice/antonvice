@@ -18,22 +18,12 @@
 
 ---
 
-<table style="width: 100%;">
-<tr>
-<td style="width: 50%;">
+![Image](https://github.com/antonvice/antonvice/blob/main/IMG_0198.jpg)
 
 # AntonVice.🔥
 ## ML | DS | AI Engineer
 ### I coined the term "AI Whisperer" to symbolize a new and experimental direction of software engineering where the main focus of work is on interacting with machine learning models to discover emergent behaviors. I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
 
-</td>
-<td style="width: 50%;">
-
-![Image](https://github.com/antonvice/antonvice/blob/main/IMG_0198.jpg)
-
-</td>
-</tr>
-</table>
 ---
 
 <div align="center">
