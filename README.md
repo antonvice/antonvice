@@ -71,7 +71,7 @@
 </div>
 
 <div align="center">
-    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=wtf&font=Comic%20Neue&ext=activity" style="width: 100%;">
+    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=unicorn&font=Fira%20Mono" style="width: 100%;">
 </div>
 
 
