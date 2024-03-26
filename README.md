@@ -27,11 +27,6 @@
 ---
 
 <div align="center">
-    <img src="https://myreadme.vercel.app/api/embed/antonvice?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
-
-
-<div align="center">
   
   <!-- Programming Languages -->
   ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -74,7 +69,11 @@
     <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=unicorn&font=Fira%20Mono" style="width: 100%;">
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antonvice&theme=gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonvice&layout=compact&langs_count=8&card_width=320&hide=html,jupyter%20notebook&theme=gradient" />
+</a>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antonvice" alt="WakaTime Stats" />
-</div>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
