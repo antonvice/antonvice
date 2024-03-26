@@ -70,4 +70,8 @@
 
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact" />
+  </a>
+</p>
