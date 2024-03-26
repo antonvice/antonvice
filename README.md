@@ -19,6 +19,11 @@
 ---
 
 # AntonVice.🔥
+
+<a href="https://www.kaggle.com/dzehtsiarou>
+<img src="https://www.kaggle.com/static/images/tiers/contributor.svg">
+</a>
+
 ## ML | DS | AI Engineer
 ### I coined the term "AI Whisperer" to symbolize a new and experimental direction of software engineering where the main focus of work is on interacting with machine learning models to discover emergent behaviors. I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
 
@@ -70,10 +75,10 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antonvice&theme=gradient" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antonvice&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonvice&layout=compact&langs_count=8&card_width=320&hide=html,jupyter%20notebook&theme=gradient" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonvice&layout=compact&langs_count=8&card_width=320&hide=html,jupyter%20notebook&theme=tokyonight" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
