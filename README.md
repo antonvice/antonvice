@@ -70,15 +70,4 @@
 
 </div>
 
-<div align="center">
-    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/antonvice?theme=unicorn&font=Fira%20Mono" style="width: 100%;">
-</div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antonvice&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonvice&layout=compact&langs_count=8&card_width=320&hide=html,jupyter%20notebook&theme=tokyonight" />
-</a>
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
