@@ -20,7 +20,7 @@
 
 # AntonVice.🔥
 
-<a href="https://www.kaggle.com/dzehtsiarou>
+<a href="https://www.kaggle.com/dzehtsiarou">
 <img src="https://www.kaggle.com/static/images/tiers/contributor.svg">
 </a>
 
