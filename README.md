@@ -25,7 +25,7 @@
 </a>
 
 ## ML | DS | AI Engineer
-### I coined the term "AI Whisperer" to symbolize a new and experimental direction of software engineering where the main focus of work is on interacting with machine learning models to discover emergent behaviors. I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
+### I coined the term "AI Whisperer" and now represent this subset of developers that symbolizes a novel and experimental direction of "Software 2.0" engineering where the main focus of work is shifted from creating a robust infrastructure of decision trees towards building assistive toolboxes for the reasoning Machine Learning modules at the core. At the heart of soft 2.0, we can have a large language model with access to image generation, web access, API routes for other apps, and knowledge bases. This intertwined architecture allows us to discover and implement emergent behaviors of mathematical reasoning modules. Besides that, I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
 
 <img src="https://github.com/antonvice/antonvice/blob/main/IMG_0198.jpg" width="50%" alt="Image">
 
