@@ -19,13 +19,17 @@
 ---
 
 # AntonVice.🔥
+
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=300&lines=antonvie.github.io%2Fmy-blog" alt="Typing SVG"/>
+  <!-- Kaggle Contributor Badge with link -->
+  <a href="https://www.kaggle.com/dzehtsiarou" target="_blank">
+    <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" alt="Kaggle Contributor Badge" style="vertical-align: middle; margin-right: 15px;">
+  </a>
+  <!-- Typing Effect for Blog URL -->
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=300&lines=antonvicee.github.io%2Fmy-blog" alt="Typing SVG" style="vertical-align: middle;">
 </p>
 
-<a align="center" href="https://www.kaggle.com/dzehtsiarou">
-<img src="https://www.kaggle.com/static/images/tiers/contributor.svg">
-</a>
+
 
 ## ML | DS | AI Engineer
 ### I coined the term "AI Whisperer" and now represent this subset of developers that symbolizes a novel and experimental direction of "Software 2.0" engineering where the main focus of work is shifted from creating a robust infrastructure of decision trees towards building assistive toolboxes for the reasoning Machine Learning modules at the core. At the heart of soft 2.0, we can have a large language model with access to image generation, web access, API routes for other apps, and knowledge bases. This intertwined architecture allows us to discover and implement emergent behaviors of mathematical reasoning modules. Besides that, I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
@@ -33,6 +37,7 @@
 <div align="center">
 <img src="https://github.com/antonvice/antonvice/blob/main/IMG_0198.jpg" width="50%" alt="Image">
 </div>
+
 ---
 
 <div align="center">
