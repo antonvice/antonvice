@@ -20,15 +20,14 @@
 
 # AntonVice.🔥
 
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <!-- Kaggle Contributor Badge with link -->
   <a href="https://www.kaggle.com/dzehtsiarou" target="_blank">
-    <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" alt="Kaggle Contributor Badge" style="vertical-align: middle; margin-right: 15px;">
+    <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" alt="Kaggle Contributor Badge" style="margin-right: 15px;">
   </a>
   <!-- Typing Effect for Blog URL -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=300&lines=antonvicee.github.io%2Fmy-blog" alt="Typing SVG" style="vertical-align: middle;">
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=300&lines=antonvice.github.io%2Fmy-blog" alt="Typing SVG">
+</div>
 
 
 ## ML | DS | AI Engineer
