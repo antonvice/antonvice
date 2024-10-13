@@ -81,11 +81,5 @@
 <p align="center">
   <img src="https://wakatime.com/share/@antonvice/37a88939-adeb-450f-a6f5-eacd7235e7e7.svg" alt="Coding Activity 1" style="margin-right: 20px;" />
   <img src="https://wakatime.com/share/@antonvice/f83a6898-dded-463a-9f90-65de14672ff3.svg" alt="Coding Activity 2" style="margin-right: 20px;" />
-  <img src="https://wakatime.com/share/@antonvice/f5d27b9c-d0de-44fd-a47a-0431af47a215.svg" alt="Coding Activity 3" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antonvice&layout=compact" />
-  </a>
+  <img src="https://wakatime.com/share/@antonvice/f5d27b9c-d0de-44fd-a47a-0431af47a215.svg](https://wakatime.com/share/@antonvice/c0955b19-1c13-4fe2-81b3-a7d76e537181.svg" alt="Coding Activity 3" />
 </p>
