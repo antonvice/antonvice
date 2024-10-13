@@ -26,7 +26,7 @@
     <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" alt="Kaggle Contributor Badge" style="margin-right: 15px;">
   </a>
   <!-- Typing Effect for Blog URL -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=300&lines=antonvice.github.io%2Fmy-blog" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&background=1A3D2F00&vCenter=true&width=435&lines=antonvice.github.io%2Fmy-blog;x.com%2Fla_haine_d_arte;linkedin.com%2Fin%2Fantonvice" alt="Typing SVG" >
 </div>
 
 
