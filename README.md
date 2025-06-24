@@ -111,6 +111,7 @@
 
 ![alt text](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)
 
+</div>
 ---
 
 <h3 align="center">📊 My Coding 📊</h3>
