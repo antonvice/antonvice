@@ -59,6 +59,7 @@
 ---
 
 <h3 align="center">🛠️ TECH STACK 🛠️</h3>
+
 <div align="center">
 
 ![alt text](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -88,7 +89,7 @@
 ![alt text](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
-  <!-- Web Development -->
+
 ![alt text](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/-HTMX-ff4081?style=flat&logo=html5&logoColor=white)
@@ -96,13 +97,13 @@
 ![alt text](https://img.shields.io/badge/-hyperscript-7F52FF?style=flat&logo=hyper&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  <!-- Cloud Platforms -->
+
 ![alt text](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-  <!-- Tools and Others -->
+
 ![alt text](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black)
 
 ![alt text](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
@@ -112,6 +113,7 @@
 ![alt text](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)
 
 </div>
+
 ---
 
 <h3 align="center">📊 My Coding 📊</h3>
