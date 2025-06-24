@@ -60,59 +60,41 @@
 
 <h3 align="center">🛠️ TECH STACK 🛠️</h3>
 
-<div align="center">
-
-![alt text](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![alt text](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Cython-00BFFF?style=flat&logo=Cython&logoColor=white)
-  <!-- ML/DL Frameworks and Libraries -->
-![alt text](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-NLTK-4E9A06?style=flat&logo=NaturalLanguageToolkit&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-HTMX-ff4081?style=flat&logo=html5&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-hyperscript-7F52FF?style=flat&logo=hyper&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black)
-
-![alt text](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-
-![alt text](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)
-
+<div align="center"> 
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 5px; margin-top:10px;"><strong>Languages:</strong></p>
+  ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+  ![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![](https://img.shields.io/badge/-Cython-00BFFF?style=flat&logo=Cython&logoColor=white)
+  
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 5px; margin-top:15px;"><strong>ML / DL & Data Science:</strong></p>
+  ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+  ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+  ![](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  ![](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white)
+  ![](https://img.shields.io/badge/-NLTK-4E9A06?style=flat&logo=NaturalLanguageToolkit&logoColor=white)
+  ![](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+  ![](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
+  ![](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
+  ![](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black)
+  
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 5px; margin-top:15px;"><strong>Web & Backend:</strong></p>
+  ![](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+  ![](https://img.shields.io/badge/-HTMX-ff4081?style=flat&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/-hyperscript-7F52FF?style=flat&logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 5px; margin-top:15px;"><strong>Cloud & DevOps:</strong></p>
+  ![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+  ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+  ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+  ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+  ![](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)
 </div>
+
 
 ---
 
