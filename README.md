@@ -4,10 +4,6 @@
 
 <h1 align="center">Anton Vice 🔥</h1>
 
-<p align="center">
-  <em>Cyber-kin, code-weaver, AI's confidant.</em>
-</p>
-
 <table align="center" style="border: none; margin-bottom: 20px;">
   <tr>
     <td align="center" width="22%"><a href="mailto:anton96vice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anton Vice" /></a></td>
