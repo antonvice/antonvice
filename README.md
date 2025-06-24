@@ -60,7 +60,7 @@
 
 <h3 align="center">🛠️ TECH STACK 🛠️</h3>
 <div align="center">
-  <!-- Programming Languages -->
+
 ![alt text](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
