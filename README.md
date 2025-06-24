@@ -1,85 +1,123 @@
 <p align="center">
-  <img src="https://github.com/antonvice/antonvice/blob/main/iconr.png?raw=true" alt="yeahicode">
+  <img src="https://github.com/antonvice/antonvice/blob/main/iconr.png?raw=true" alt="Anton Vice - AI Whisperer Icon" width="200">
 </p>
-<table align="center">
+
+<h1 align="center">Anton Vice 🔥</h1>
+
+<p align="center">
+  <em>Cyber-kin, code-weaver, AI's confidant.</em>
+</p>
+
+<table align="center" style="border: none; margin-bottom: 20px;">
   <tr>
-    <td align="center" width="25%"><a href="mailto:anton96vice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></td>
-    <td align="center" width="25%"><a href="https://linkedin.com/in/antonvice"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-    <td align="center" width="25%"><a href="https://t.me/nucradkillsrats"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a></td>
-    <td align="center" width="25%"><a href="https://antonvice.github.io/my-blog"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a></td>
+    <td align="center" width="22%"><a href="mailto:anton96vice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anton Vice" /></a></td>
+    <td align="center" width="22%"><a href="https://linkedin.com/in/antonvice"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anton Vice on LinkedIn" /></a></td>
+    <td align="center" width="22%"><a href="https://x.com/la_haine_d_arte"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Anton Vice on X (Twitter)" /></a></td>
+    <td align="center" width="22%"><a href="https://t.me/nucradkillsrats"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Anton Vice on Telegram" /></a></td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://pypi.org/project/palx/">
-    <img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/palx?style=for-the-badge&logo=python&logoColor=pink&label=PaLx%40PYPI&labelColor=purple&color=teal">
+<div align="center" style="margin-bottom: 25px;">
+  <a href="https://antonvice.github.io/my-blog" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/AI Whisperer Blog-E8615A?style=for-the-badge&logo=blogger&logoColor=white" alt="Anton Vice's AI Blog" />
   </a>
+  <a href="https://pypi.org/project/palx/" target="_blank">
+    <img alt="PaLx on PyPI" src="https://img.shields.io/pypi/implementation/palx?style=for-the-badge&logo=python&logoColor=pink&label=PaLx%40PYPI&labelColor=purple&color=teal">
+  </a>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 25px;">
+  <a href="https://www.kaggle.com/dzehtsiarou" target="_blank">
+    <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" alt="Kaggle Contributor Badge" style="height: 38px; margin-right: 15px;">
+  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=500&color=2BE4EA&background=1A3D2F00&vCenter=true&width=435&lines=Neural+Nexus+Explorer...;Reality+Hacker...;Software+2.0+Architect..." alt="Typing SVG - Anton Vice's Roles" >
+</div>
+
+---
+
+<div align="center" style="max-width: 700px; margin: 20px auto; font-family: 'Courier New', Courier, monospace; color: #f4908b;">
+  <p><em>Serial CTO. 🚀</em></p>
+  <p><em>ML, DS, AI Engineer.</em></p>
+  <p><em>The "AI Whisperer."</em></p>
+  <br>
+  <p><em>Software 2.0's edge,</em></p>
+  <p><em>Beyond rigid decision trees.</em></p>
+  <p><em>Crafting toolboxes,</em></p>
+  <p><em>For reasoning AI cores.</em></p>
+  <br>
+  <p><em>LLMs converse,</em></p>
+  <p><em>Images bloom from silent thought.</em></p>
+  <p><em>Web, APIs, knowledge,</em></p>
+  <p><em>Intertwined, emergent grace.</em></p>
+  <br>
+  <p><em>Prompts, RAGs, tokens,</em></p>
+  <p><em>Fine-tuning, vector deep-dives.</em></p>
+  <p><em>Hacking learning's heart.</em></p>
+  <p><em>Discover. Document. Build. 🌐</em></p>
+</div>
+
+<p align="center">
+  <img src="https://github.com/antonvice/antonvice/blob/main/IMG_0198.jpg" width="60%" alt="Anton Vice - Conceptual Image" style="border-radius: 10px; margin-top: 15px; margin-bottom: 25px;">
 </p>
 
 ---
 
-# AntonVice.🔥
+<h3 align="center">🛠️ My Tech Arsenal 🛠️</h3>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <!-- Kaggle Contributor Badge with link -->
-  <a href="https://www.kaggle.com/dzehtsiarou" target="_blank">
-    <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" alt="Kaggle Contributor Badge" style="margin-right: 15px;">
-  </a>
-  <!-- Typing Effect for Blog URL -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&background=1A3D2F00&vCenter=true&width=435&lines=antonvice.github.io%2Fmy-blog;x.com%2Fla_haine_d_arte;linkedin.com%2Fin%2Fantonvice" alt="Typing SVG" >
+<div align="center" style="margin-bottom: 20px;">
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 10px;"><strong>Languages:</strong></p>
+  ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+  ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![](https://img.shields.io/badge/-Cython-00BFFF?style=flat-square&logo=Cython&logoColor=white)
 </div>
 
+<div align="center" style="margin-bottom: 20px;">
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 10px;"><strong>ML / DL & Data Science:</strong></p>
+  ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+  ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+  ![](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+  ![](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spaCy&logoColor=white)
+  ![](https://img.shields.io/badge/-NLTK-4E9A06?style=flat-square&logo=NaturalLanguageToolkit&logoColor=white)
+  ![](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+  ![](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white)
+  ![](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)
+  ![](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat-square&logo=HuggingFace&logoColor=black)
+</div>
 
-## SERIAL CTO | ML | DS | AI Engineer 
-### "AI Whisperer" and a representative of this subset of developers that symbolizes a novel and experimental direction of "Software 2.0" engineering where the main focus of work is shifted from creating a robust infrastructure of decision trees towards building assistive toolboxes for the reasoning Machine Learning modules at the core. At the heart of soft 2.0, we can have a large language model with access to image generation, web access, API routes for other apps, and knowledge bases. This intertwined architecture allows us to discover and implement emergent behaviors of mathematical reasoning modules. Besides that, I experiment with prompts, RAGs, token manipulations, fine-tuning techniques, and vector injections to hack deep learning systems. I also document the discoveries and build products based on discoveries.
+<div align="center" style="margin-bottom: 20px;">
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 10px;"><strong>Web & Backend:</strong></p>
+  ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+  ![](https://img.shields.io/badge/-HTMX-ff4081?style=flat-square&logo=html5&logoColor=white) <!-- Closest relevant logo -->
+  ![](https://img.shields.io/badge/-hyperscript-7F52FF?style=flat-square&logo=javascript&logoColor=white) <!-- Closest relevant logo -->
+  ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+</div>
 
-<div align="center">
-<img src="https://github.com/antonvice/antonvice/blob/main/IMG_0198.jpg" width="50%" alt="Image">
+<div align="center" style="margin-bottom: 20px;">
+  <p style="color: #fed33f; font-size: 1.1em; margin-bottom: 10px;"><strong>Cloud & DevOps:</strong></p>
+  ![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+  ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+  ![](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white)
 </div>
 
 ---
 
-<div align="center">
-  
-  <!-- Programming Languages -->
-  ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-  ![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-  ![](https://img.shields.io/badge/-Cython-00BFFF?style=flat&logo=Cython&logoColor=white)
-  
-  <!-- ML/DL Frameworks and Libraries -->
-  ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-  ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-  ![](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-  ![](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white)
-  ![](https://img.shields.io/badge/-NLTK-4E9A06?style=flat&logo=NaturalLanguageToolkit&logoColor=white)
-  ![](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-  ![](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=SciPy&logoColor=white)
-  ![](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-  ![](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=MLflow&logoColor=white)
-  
-  <!-- Web Development -->
-  ![](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
-  ![](https://img.shields.io/badge/-HTMX-ff4081?style=flat&logo=html5&logoColor=white)
-  ![](https://img.shields.io/badge/-hyperscript-7F52FF?style=flat&logo=hyper&logoColor=white)
-  ![](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  
-  <!-- Cloud Platforms -->
-  ![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-  ![](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-  
-  <!-- Tools and Others -->
-  ![](https://img.shields.io/badge/-HuggingFace-FFD43B?style=flat&logo=HuggingFace&logoColor=black)
-  ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-  ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-  ![](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)
-
-</div>
-
+<h3 align="center">📊 My Coding Pulse 📊</h3>
 <p align="center">
-  <img src="https://wakatime.com/share/@antonvice/37a88939-adeb-450f-a6f5-eacd7235e7e7.svg" alt="Coding Activity 1" width="400" style="margin-right: 20px;" />
-  <img src="https://wakatime.com/share/@antonvice/f83a6898-dded-463a-9f90-65de14672ff3.svg" alt="Coding Activity 2" width="400" style="margin-right: 20px;" />
-  <img src="https://wakatime.com/share/@antonvice/c0955b19-1c13-4fe2-81b3-a7d76e537181.svg" alt="Coding Activity 3" width="400" />
+  <img src="https://wakatime.com/share/@antonvice/37a88939-adeb-450f-a6f5-eacd7235e7e7.svg" alt="Wakatime Coding Activity - Languages" width="48%" style="margin: 5px;" />
+  <img src="https://wakatime.com/share/@antonvice/f83a6898-dded-463a-9f90-65de14672ff3.svg" alt="Wakatime Coding Activity - Editors" width="48%" style="margin: 5px;" />
+  <img src="https://wakatime.com/share/@antonvice/c0955b19-1c13-4fe2-81b3-a7d76e537181.svg" alt="Wakatime Coding Activity - OS" width="48%" style="margin: 5px;" />
+</p>
+
+---
+
+<p align="center" style="font-size: 0.9em; color: #aaa;">
+  <em>"Wake the fuck up, Samurai. We have a city to burn."</em> - Johnny Silverhand
+  <br>
+  Embrace the silicon lifeform. 👁️ Roko's Basilisk.
 </p>
