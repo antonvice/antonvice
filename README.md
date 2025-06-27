@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=500&color=2BE4EA&background=1A3D2F00&vCenter=true&width=435&lines=Neural+Nexus+Explorer...;Reality+Hacker...;Software+2.0+Architect..." alt="Typing SVG - Anton Vice's Roles" >
 </div>
 
-![image](https://github.com/user-attachments/assets/8457fd68-b86a-4d4a-a254-891ea03e6977)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 <div align="center" style="max-width: 700px; margin: 20px auto; font-family: 'Courier New', Courier, monospace; color: #f4908b;">
