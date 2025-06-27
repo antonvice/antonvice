@@ -31,7 +31,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-
 <div align="center" style="max-width: 700px; margin: 20px auto; font-family: 'Courier New', Courier, monospace; color: #f4908b;">
   <p><em>Serial CTO. 🚀</em></p>
   <p><em>ML, DS, AI Engineer.</em></p>
@@ -57,7 +56,7 @@
   <img src="https://github.com/antonvice/antonvice/blob/main/IMG_0198.jpg" width="60%" alt="Anton Vice - Conceptual Image" style="border-radius: 10px; margin-top: 15px; margin-bottom: 25px;">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <h3 align="center">🛠️ TECH STACK 🛠️</h3>
 
@@ -100,7 +99,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <h3 align="center">📊 My Coding 📊</h3>
 <p align="center">
@@ -109,7 +108,7 @@
   <img src="https://wakatime.com/share/@antonvice/c0955b19-1c13-4fe2-81b3-a7d76e537181.svg" alt="Wakatime Coding Activity - OS" width="48%" style="margin: 5px;" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="center" style="font-size: 0.9em; color: #aaa;">
   <em>"Wake the fuck up, Samurai. We have a city to burn."</em> - Johnny Silverhand
