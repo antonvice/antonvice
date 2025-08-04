@@ -26,7 +26,7 @@
   <a href="https://www.kaggle.com/dzehtsiarou" target="_blank">
     <img src="https://www.kaggle.com/static/images/tiers/contributor.svg" alt="Kaggle Contributor Badge" style="height: 38px; margin-right: 15px;">
   </a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=500&color=2BE4EA&background=1A3D2F00&vCenter=true&width=435&lines=Neural+Nexus+Explorer...;Reality+Hacker...;Software+2.0+Architect..." alt="Typing SVG - Anton Vice's Roles" >
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=500&color=2BE4EA&background=1A3D2F00&vCenter=true&width=435&lines=beep,+bop,+brrrrr...;Мамкин+Hacker...;Software+3.0+Architect..." alt="Typing SVG - Anton Vice's Roles" >
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
