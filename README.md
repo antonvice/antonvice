@@ -27,7 +27,7 @@
     <img alt="PaLx on PyPI" src="https://img.shields.io/pypi/v/palx?style=for-the-badge&label=PaLx%20%40%20PyPI&logo=python&logoColor=white&color=3776AB">
   </a>
   <a href="https://www.kaggle.com/dzehtsiarou" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-dzehtsiarou-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+    <img alt="Kaggle Profile" src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
 </p>
 
