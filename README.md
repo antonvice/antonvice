@@ -26,6 +26,9 @@
   <a href="https://pypi.org/project/palx/" target="_blank">
     <img alt="PaLx on PyPI" src="https://img.shields.io/pypi/v/palx?style=for-the-badge&label=PaLx%20%40%20PyPI&logo=python&logoColor=white&color=3776AB">
   </a>
+  <a href="https://pypi.org/project/pygoroutine/" target="_blank">
+    <img alt="pygoroutine on PyPI" src="https://img.shields.io/pypi/v/pygoroutine?style=for-the-badge&label=pygoroutine%20%40%20PyPI&logo=python&logoColor=white&color=3776AB">
+  </a>
   <a href="https://www.kaggle.com/dzehtsiarou" target="_blank">
     <img alt="Kaggle Profile" src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
