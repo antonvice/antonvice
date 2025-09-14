@@ -23,7 +23,10 @@
   <a href="https://antonvice.github.io/my-blog" target="_blank">
     <img alt="AI Whisperer Blog" src="https://img.shields.io/badge/AI%20Whisperer%20Blog-E8615A?style=for-the-badge&logo=mdbook&logoColor=white">
   </a>
-  <a href="https://pypi.org/project/palx/" target="_blank">
+<a href="https://pypi.org/project/slbrowser/" target="_blank">
+  <img alt="slbrowser on PyPI" src="https://img.shields.io/pypi/v/slbrowser?style=for-the-badge&label=slbrowser%20%40%20PyPI&logo=python&logoColor=white&color=3776AB">
+</a>
+    <a href="https://pypi.org/project/palx/" target="_blank">
     <img alt="PaLx on PyPI" src="https://img.shields.io/pypi/v/palx?style=for-the-badge&label=PaLx%20%40%20PyPI&logo=python&logoColor=white&color=3776AB">
   </a>
   <a href="https://pypi.org/project/pygoroutine/" target="_blank">
