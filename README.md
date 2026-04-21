@@ -44,7 +44,7 @@
 
 <div align="center">
 
-### 🤖 Current Transmission
+### 🤖 What I am up to:
 **Currently engineering the future of embodied AI at** **[xlabrobotics](https://xlabrobotics.com)**.  
 *AIF>RL*
 
