@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3200&pause=700&color=2BE4EA&center=true&vCenter=true&width=600&lines=Robotics+Engineer+%40+xlabrobotics;Embodied+Intelligence+Architect;Serial+CTO+%7C+Systems+Tinkerer;Steering+the+Signal" alt="Typing roles">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3200&pause=700&color=2BE4EA&center=true&vCenter=true&width=600&lines=Robotics+Engineer+%40+xlabrobotics;Embodied+Intelligence+Architect;Serial+CTO+%7C+Systems+Tinkerer;Will+Train+Robots+for+Food" alt="Typing roles">
 </p>
 
 <p align="center">
