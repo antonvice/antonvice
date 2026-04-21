@@ -45,8 +45,8 @@
 <div align="center">
 
 ### 🤖 Current Transmission
-**Bridging the gap between silicon and sinew.** Currently engineering the future of embodied AI at **[xlabrobotics](https://xlabrobotics.com)**.  
-*Moving from pure models to physical agency.*
+**Currently engineering the future of embodied AI at** **[xlabrobotics](https://xlabrobotics.com)**.  
+*AIF>RL*
 
 </div>
 
@@ -81,7 +81,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </p>
 
-<h3 align="center">📊 System Metrics</h3> 
+<h3 align="center">📊 My Metrics </h3> 
 
 <p align="center">
   <img src="https://wakatime.com/share/@antonvice/37a88939-adeb-450f-a6f5-eacd7235e7e7.svg" alt="Languages" width="48%" />
